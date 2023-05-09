@@ -1,0 +1,210 @@
+.menu{
+    margin-left: 430px;
+}
+
+.dot {
+    position: absolute;
+    margin-top: 41px;
+    margin-left: -25px;
+    height: 24px;
+    width: 24px;
+    background-color: #5DC868;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.dot2 {
+    position: relative;
+    margin-top: 40px;
+    margin-left: 430px;
+    height: 26.5px;
+    width: 26.5px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+.line{
+    position: absolute;
+    border-bottom: 4px solid #000;
+    margin-top: 30px;
+    width: 439px;
+    opacity: 0.2;
+    left: 415px;
+}
+
+.font_judul {
+    width: 129px;
+    color: rgba(24,118,198,1);
+    position: absolute;
+    top: 397px;
+    left: 450px;  
+    font-family: 'Poppins';
+    font-weight: Bold;
+    font-size: 22px;
+    opacity: 1;
+    text-align: center;
+}
+
+.dot3 {
+    position: absolute;
+    margin-top: 327px;
+    margin-left: 550px;
+    height: 24px;
+    width: 24px;
+    background-color: rgba(24,118,198,1);
+    border-radius: 50%;
+    display: inline-block;
+    position: absolute;
+    color: #fff;
+    font-family: 'Poppins';
+    font-size: 22px;
+    left: 29px;
+    top: 75px;
+}
+
+.font_fastMenu{
+    position: absolute;
+    color: #fff;
+    font-family: 'Poppins';
+    font-size: 22px;
+    left: 9px;
+    top: -4px;
+}
+
+.dot_menu{
+    position: absolute;
+    height: 80px;
+    width: 80px;
+    background-color: #F6F6F6;
+    border-radius: 50%;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.font_menu{
+    position: absolute;
+    font-family: 'Poppins';
+    font-size: 15px;
+    color: #000;
+    font-weight: 700;
+}
+
+.button_login{
+    position: absolute;
+    font-family: 'Poppins';
+    font-size: 22px;
+    background-color: rgba(24,118,198,1);
+    border-radius: 15px;
+    outline: none;
+    border: none;
+    width: 371px;
+    height: 71px;
+    top: 830px;
+    left: 450px;
+    color: #fff;
+    font-weight: 700;
+}
+
+.icon1{
+    position: absolute;
+    top: 445px;
+    width: 63px;
+    height: 63px;
+}
+
+.icon2{
+    position: absolute;
+    top: 587px;
+    width: 63px;
+    height: 63px;
+}
+
+/* Call Center Page */
+.box{
+    position: absolute;
+    border-bottom: 180px solid #fff;
+    margin-top: 100px;
+    width: 439.5px;
+    left: 414.5px;
+}
+
+.title{
+    position: absolute;
+    left: 580px;
+    top: 30px;
+    font-family: 'Poppins';
+    font-weight: 700;
+    font-size: 24px;
+    color: #fff;
+}
+
+.bg{
+    position: absolute;
+    width: 400px;
+    height: 375px;
+    left: 431px;
+    top: 108px;
+}
+
+.font_call{
+    position: absolute;
+    font-family: 'Poppins';
+    font-size: 20px;
+    font-weight: 900;
+    color: rgba(24,118,198,1);
+    top: 470px;
+    left: 570px;
+}
+
+.font_call2{
+    position: absolute;
+    margin: 25px;
+    width: 350px;
+    height: 80px;
+    /* outline: dashed 1px black; */
+    font-family: 'Poppins';
+    font-size: 13px;
+    font-weight: 600;
+    color: rgb(0, 0, 0);
+    text-align: center; 
+    top: 500px;
+    left: 440px;
+}
+
+.icon_call{
+    position: absolute;
+    width: 47px;
+    height: 47px;
+    left: 430px;
+}
+
+.font_call3{
+    position: absolute;
+    font-family: 'Poppins';
+    font-size: 15px;
+    color: #000;
+    opacity: 0.5;
+    left: 490px;
+}
+
+.font_call4{
+    position: absolute;
+    font-family: 'Poppins';
+    font-size: 15px;
+    color: #000;
+    left: 490px;
+}
+
+.line2{
+    position: absolute;
+    border-bottom: 3px solid #000;
+    width: 415px;
+    opacity: 0.2;
+    left: 420px;
+}
+
+.row{
+    position: absolute;
+    right: 10px;
+}
